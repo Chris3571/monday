@@ -1,0 +1,21 @@
+h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(161, 42, 190);
+
+}
+body {
+    background-color: rgb(69, 189, 58);
+    border: 2px solid coral;
+    border-radius: 5px;
+}
+
+.main-content {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+    font-size: larger;
+}
+
+footer {
+font-size: small;
+color: brown;
+}
